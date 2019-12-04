@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hell-Mike_Koenig-144950046.wav-69722e7ebd2ff51b65e6bcdbf3d5c1e3.sample"
+
+[deps]
+
+source_file="res://Assets/audio/hell-Mike_Koenig-144950046.wav"
+dest_files=[ "res://.import/hell-Mike_Koenig-144950046.wav-69722e7ebd2ff51b65e6bcdbf3d5c1e3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

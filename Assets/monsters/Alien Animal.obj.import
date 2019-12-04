@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Alien Animal.obj-241b6e764015e0794bf4cd984fcf8cce.mesh"
+
+[deps]
+
+files=[ "res://.import/Alien Animal.obj-241b6e764015e0794bf4cd984fcf8cce.mesh" ]
+
+source_file="res://Assets/monsters/Alien Animal.obj"
+dest_files=[ "res://.import/Alien Animal.obj-241b6e764015e0794bf4cd984fcf8cce.mesh", "res://.import/Alien Animal.obj-241b6e764015e0794bf4cd984fcf8cce.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
